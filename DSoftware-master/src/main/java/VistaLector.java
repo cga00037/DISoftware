@@ -1,0 +1,4 @@
+public class VistaLector extends ObservadorActualizar {
+	public Interfaz_ConsultaPrestamo _unnamed_Interfaz_ConsultaPrestamo_;
+	public ControladorLector _unnamed_ControladorLector_;
+}
